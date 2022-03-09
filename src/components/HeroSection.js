@@ -6,7 +6,6 @@ import "./HeroSection.css";
 function HeroSection() {
   return (
     <div className="hero-container">
-      <video autoPlay loop muted />
       <h1>Diversified Aerospace Finishing</h1>
       <div className="hero-btns">
         <Button
