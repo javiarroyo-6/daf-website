@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/daf-website/static/css/main.f4f795e2.css",
+    "main.js": "/daf-website/static/js/main.af29d863.js",
+    "static/media/img-2.jpg": "/daf-website/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/airplaneSVG.svg": "/daf-website/static/media/airplaneSVG.5b74db96de64e4937192.svg",
+    "static/media/dafLocation.png": "/daf-website/static/media/dafLocation.5daf74175d50ddd28b5d.png",
+    "static/media/productsDAF.jpeg": "/daf-website/static/media/productsDAF.8215ff9982e46290f57c.jpeg",
+    "static/media/img-8.jpg": "/daf-website/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "static/media/dafLogoSVG.svg": "/daf-website/static/media/dafLogoSVG.fe661d13fa214f9166a01ad8a6a3b5bd.svg",
+    "index.html": "/daf-website/index.html",
+    "main.f4f795e2.css.map": "/daf-website/static/css/main.f4f795e2.css.map",
+    "main.af29d863.js.map": "/daf-website/static/js/main.af29d863.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4f795e2.css",
+    "static/js/main.af29d863.js"
+  ]
+}
