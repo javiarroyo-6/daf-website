@@ -9,7 +9,7 @@ import ContactUs from "./components/pages/ContactUs";
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/daf-website">
         <Navbar />
         <Switch>
           <Route path="/" exact component={Home} />
